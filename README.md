@@ -1,0 +1,1 @@
+Use bolt.new in five minutes, using the @imgly/background-removal library
